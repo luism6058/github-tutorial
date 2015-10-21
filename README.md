@@ -8,12 +8,18 @@ __Git:__ Git is version control
  
 
 __Github__:  Github stores your code in a cloud,in which you can   `pull` from any computer and `push` back to github so it can save your `commit`.  
-It also allows for easy collaboration with other users, they can *fork* your repo and make their own changes and you can either accept or deny their pull requests, to accept or deny their changes to your repo.
+It also allows for easy collaboration with other users, they can *fork* your repo and make their own changes and you can either accept or deny their pull requests, to accept or deny their changes to your repo.  
 
  
 
 ---
-## Initial Setup
+## Initial Setup:
+_Github Account_:  
+1.Create a [github](https://github.com) account to make your repositories and your remotes.  
+2.Once you create your github account you go to "Your Profile" and click on the repositories tab.  
+3.Once in the repositories tab, click on "New" and type in the name for the repository and then you can begin!
+4. Endless Fun!
+
 _First steps:_  
 1. Create a repository on github  
 2. Then in any porgram on the command line type in `git init`  
@@ -28,12 +34,12 @@ _First steps:_
 ---
 ## Repository Setup
 
-1. First, make sure you are in the correct directory to begin
+1.Make sure you are logged in on github.  
+2.Click on your profile 
+3. Click "Your Profile" 
+4. Create a new one or continue from an old one
+5. connect your program to github.
 
-2. Then type in `git init` to initialize git.
-
-3. then make any changes you want to the file, or repository, then type in `git add [enter file name]`
-* Or type in `git add .` to add all files changed to the "stage"
 
 
 ---
